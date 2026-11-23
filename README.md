@@ -5,7 +5,7 @@ LeakLens is a Python-based dataset auditing tool designed to help users identify
 It provides an interactive dashboard where users can upload CSV files, explore dataset characteristics, detect anomalies, and generate detailed audit reports.
 ## 🖥️ Dashboard Preview
 
-![LeakLens Dashboard](assets/dashboard.png)
+![LeakLens Dashboard](dashboard.png)
 
 ## 🚀 Features
 
